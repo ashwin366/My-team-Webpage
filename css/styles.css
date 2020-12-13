@@ -211,6 +211,7 @@ h1 {
   }
 
   .description__text {
+    max-width: 320px;
     height: 87px;
     font-size: 14px;
     line-height: 21px;
